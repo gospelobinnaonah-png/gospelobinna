@@ -1,1 +1,1 @@
-# gospelobinna
+App development|Flutter•Dart|Java|Graphics designer 
